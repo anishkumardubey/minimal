@@ -1,6 +1,14 @@
 title: <p align="center">Anish Kumar Dubey</p>
 logo: /assets/img/ProfilePhoto.jpeg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/anishdubey89/">LinkedIn</a> |
+  <a href="https://github.com/anishkumardubey">GitHub</a>
+  
+  <br>   
+  I'm working as Automation Anywhere developer, OpenBots developer and Power Automate developer.
+  I am pursuing MS in ML & AI.
+  <br>
+  </p>
 theme: jekyll-theme-minimal
